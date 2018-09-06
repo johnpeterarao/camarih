@@ -158,6 +158,10 @@
 
     .top-list li a i { color: #000!important;}
     .nav-custom .navbar-right li.acc { display: none!important;}
+    .nav-custom .navbar-right li.active a, .nav-custom .navbar-right li.active:hover a, .nav-custom .navbar-right li a{ border: 0px!important;}
+
+
+
 
     /*HOMEPAGE*/
     .home .sec-1 .home-carousel .item .text-hldr { top: 100px!important; left: 25px!important;}
